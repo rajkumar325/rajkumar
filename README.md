@@ -1,1 +1,1 @@
-# sbi-loan-app
+# icici-bank-loan
